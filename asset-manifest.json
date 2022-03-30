@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netanel-malako-30-03-22/static/css/main.e9887089.css",
+    "main.js": "/netanel-malako-30-03-22/static/js/main.c2962ef1.js",
+    "static/js/787.ec78c698.chunk.js": "/netanel-malako-30-03-22/static/js/787.ec78c698.chunk.js",
+    "index.html": "/netanel-malako-30-03-22/index.html",
+    "main.e9887089.css.map": "/netanel-malako-30-03-22/static/css/main.e9887089.css.map",
+    "main.c2962ef1.js.map": "/netanel-malako-30-03-22/static/js/main.c2962ef1.js.map",
+    "787.ec78c698.chunk.js.map": "/netanel-malako-30-03-22/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9887089.css",
+    "static/js/main.c2962ef1.js"
+  ]
+}
