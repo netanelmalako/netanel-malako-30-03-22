@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color:blanchedalmond;
+}
+.post{
+  border:2px black solid;
+  margin-bottom: 10px;
+  width:500px ;
+  position: relative;
+  left: 500px;
+  background-color: rgb(247, 217, 179);
+
+}
+
+.favorites{
+  border:2px black solid;
+  margin-bottom: 10px;
+  width: 600px; ;
+  height:250px;
+  position: relative;
+  left: 500px;
+  background-color: rgb(247, 217, 179);
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.favoDaily{
+  border:2px black solid;
+  margin: 10px;
+  width:200px ;
+  position: relative;
+  left: 150px;
+  background-color: rgb(245, 196, 131);
+
+}
+.favoFiveDays{
+  border:2px black solid;
+  margin: 10px;
+}
